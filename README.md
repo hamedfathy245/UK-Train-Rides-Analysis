@@ -24,7 +24,8 @@ The main goal is to transform raw railway data into meaningful insights that hel
 | **Ahmed Hossam Hassan Elhawary** | **Forecasting** — Responsible for forecasting ride demand, daily revenue, and demand across ticket classes using Python and Scikit-learn. |
 | **Mariam Mohamed Faid Abdelhafez** | **SQL Data Analysis** — Responsible for SQL-based analysis and developing queries to answer the project questions. |
 | **Ahmed Mosalam Mohamed Kheir** | **SQL Data Cleaning & Preprocessing** — Responsible for data inspection, cleaning, preprocessing, and validation using SQL. |
---
+
+---
 ## 🗂️ Work Plan
 
 ### Week 1 — Data Model, Cleaning & Preprocessing
