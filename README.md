@@ -1,5 +1,3 @@
-# UK-Train-Rides-Analysis
-
 # 🚆 UK Train Rides Analysis
 
 A data analytics project focused on exploring and understanding UK railway transaction data through **data cleaning, SQL and Python analysis, forecasting, and Tableau visualization**.
