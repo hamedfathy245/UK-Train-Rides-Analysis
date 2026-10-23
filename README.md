@@ -14,18 +14,17 @@ The main goal is to transform raw railway data into meaningful insights that hel
 
 ---
 
-## 👥 Team Members
 
-| Team Member | Role |
+## 👥 Team Members & Roles
+
+| Team Member | Role & Responsibilities |
 |---|---|
-| **Ahmed Mohamed Sayed Mohamed** | Team Leader |
-| **Hamed Fathy Hamed Hassan** | Python Data Cleaning |
-| **Ahmed Hossam Hassan Elhawary** | Forecasting |
-| **Mariam Mohamed Faid Abdelhafez** | SQL Analysis |
-| **Ahmed Mosalam Mohamed Kheir** | SQL Data Cleaning |
-
----
-
+| **Ahmed Mohamed Sayed Mohamed** | **Team Leader & Python Data Analysis** — Responsible for Python-based data analysis and answering the project analysis questions. Also shares responsibility for the Tableau Dashboard, project integration, and final deliverables. |
+| **Hamed Fathy Hamed Hassan** | **Python Data Cleaning & Preprocessing** — Responsible for data inspection, cleaning, preprocessing, validation, and preparation of the cleaned dataset using Python and Pandas. Also shares responsibility for the Tableau Dashboard, project integration, and final deliverables. |
+| **Ahmed Hossam Hassan Elhawary** | **Forecasting** — Responsible for forecasting ride demand, daily revenue, and demand across ticket classes using Python and Scikit-learn. |
+| **Mariam Mohamed Faid Abdelhafez** | **SQL Data Analysis** — Responsible for SQL-based analysis and developing queries to answer the project questions. |
+| **Ahmed Mosalam Mohamed Kheir** | **SQL Data Cleaning & Preprocessing** — Responsible for data inspection, cleaning, preprocessing, and validation using SQL. |
+--
 ## 🗂️ Work Plan
 
 ### Week 1 — Data Model, Cleaning & Preprocessing
